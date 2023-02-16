@@ -1,2 +1,2 @@
 # modern-js-library-development
-A modern javascript library development
+现代 js 库开发和实践
